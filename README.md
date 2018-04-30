@@ -2,5 +2,5 @@ A Domain-specific language to abstract basic networking and security features. A
 
 ## Getting started
 
-* Code syntax is formalized in lang/iotlang.xtext
+* Code syntax is formalized in [lang/iotlang.xtext](https://github.com/atlanmod/iotdsl/blob/master/lang/src/lang/Iotlang.xtext)
 * Code generators are available in generators package
